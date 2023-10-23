@@ -1,0 +1,3 @@
+-from 2014, need to change ',' to '.' as decimal point
+
+-change xls to csv, tab (\t) is the column separation mark 
